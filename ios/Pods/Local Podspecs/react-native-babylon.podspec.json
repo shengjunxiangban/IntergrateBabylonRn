@@ -1,0 +1,30 @@
+{
+  "name": "react-native-babylon",
+  "version": "1.3.5",
+  "summary": "Babylon Native integration into React Native",
+  "homepage": "https://github.com/BabylonJS/BabylonReactNative#readme",
+  "license": "MIT",
+  "authors": {
+    "name": "Your Name",
+    "email": "yourname@email.com"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source": {
+    "git": "git+https://github.com/babylonjs/BabylonReactNative.git",
+    "tag": "1.3.5"
+  },
+  "source_files": "ios/**/*.{h,m,mm}",
+  "requires_arc": true,
+  "vendored_libraries": "ios/libs/*.a",
+  "frameworks": [
+    "MetalKit",
+    "ARKit"
+  ],
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

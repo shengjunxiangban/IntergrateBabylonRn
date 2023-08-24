@@ -1,0 +1,6 @@
+module Pods_intergrate_intergrateTests {
+  umbrella header "Pods-intergrate-intergrateTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
