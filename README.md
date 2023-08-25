@@ -35,6 +35,7 @@ When building for iOS, it will also be required to install the pods for the proj
 
 ```
 cd ios
+export NODE_BINARY="/Users/yangxiaolong/.nvm/versions/node/v16.20.2/bin/node"  -----.xcode.env.local change yours node version
 pod install
 ```
 ## 4. Try It Out
