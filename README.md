@@ -36,21 +36,14 @@ When building for iOS, it will also be required to install the pods for the proj
 ```
 cd ios
 pod install
-cd ..
 ```
 ## 4. Try It Out
 
 From your repo root folder, run:
 
 ```
-npm run ios
+open interggrate.xcworkspace
 ```
-or
-```
-chmod 755 android/gradlew
-npm run android
-```
-If you want to run the application using physical devices, please follow the [React Native Run on Device](https://reactnative.dev/docs/running-on-device) documentation.
 
 ## More Information
 
