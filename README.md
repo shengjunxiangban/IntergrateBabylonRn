@@ -1,6 +1,6 @@
-# Getting Started with Babylon React Native
+# Getting Started with IntergrateBabylonRn
 
-This sample repo is intended to help users get started using Babylon React Native to create React Native applications using Babylon.js.
+This sample repo is intended to help users get started using IntergrateBabylonRn to create React Native applications using Babylon.js.
 
 ## Required Tools
 - [node.js](https://nodejs.org/)
