@@ -17,7 +17,7 @@ Follow the instructions on [React Native's documentation for setting up your dev
 ## 2. Clone the Repo 
 
 ```
-https://github.com/shengjunxiangban/IntergrateBabylonRn.git
+https://github.com/shengjunxiangban/IntergrateBabylonRn
 ```
 
 ## 3. Project Setup
