@@ -17,7 +17,7 @@ Follow the instructions on [React Native's documentation for setting up your dev
 ## 2. Clone the Repo 
 
 ```
-git clone https://github.com/BabylonJS/BabylonReactNativeSample.git
+https://github.com/shengjunxiangban/IntergrateBabylonRn.git
 ```
 
 ## 3. Project Setup
@@ -25,7 +25,7 @@ git clone https://github.com/BabylonJS/BabylonReactNativeSample.git
 From the repo root folder, restore the npm packages by running:
 
 ```
-cd BabylonReactNativeSample
+cd intergrateBabylonRn
 npm install
 ```
 
@@ -38,11 +38,6 @@ cd ios
 pod install
 cd ..
 ```
-
-### Android Emulator Only
-
-In order to use Babylon React Native with the Android Emulator, the emulator must be configured with GLES3. Follow these [instructions](docs/ANDROID_EMULATOR.md).
-
 ## 4. Try It Out
 
 From your repo root folder, run:
@@ -55,12 +50,7 @@ or
 chmod 755 android/gradlew
 npm run android
 ```
-
 If you want to run the application using physical devices, please follow the [React Native Run on Device](https://reactnative.dev/docs/running-on-device) documentation.
-
-## 5. Add Your Code
-
-Once the project is running, open `App.tsx` using your favorite code editor (we recommend using [vscode](https://code.visualstudio.com/)). Under `EngineScreen.useEffect`, you can setup your Babylon scene the same way you do when using the [Babylon.js Playground](https://www.babylonjs-playground.com/).
 
 ## More Information
 
